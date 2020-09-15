@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+    discord-reaction-roles:
+        container_name: discord-reaction-roles
+        build: .
+        restart: always
+        image: discord-reaction-roles

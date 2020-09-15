@@ -1,0 +1,19 @@
+{
+  "name": "discord-reaction-roles",
+  "version": "1.0.0",
+  "description": "Reaction Role Bot for Discord",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ciber96/discord-reaction-roles.git"
+  },
+  "author": "ciber96",
+  "license": "ISC"
+}
